@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstrapi_medusa=self.webpackChunkstrapi_medusa||[]).push([[7327],{99862:s=>{s.exports={}}}]);
