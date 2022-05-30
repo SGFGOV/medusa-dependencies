@@ -1,3 +1,3 @@
-docker compose up postgres &
-sleeo 30s
+docker compose up postgres redis &
+sleep 30s
 cd ./strapi-medusa && yarn start
